@@ -1,0 +1,8 @@
+opencv-python-headless
+pytesseract
+requests
+selenium
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+mss
